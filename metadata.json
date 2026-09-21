@@ -1,0 +1,6 @@
+{
+  "name": "Compass - Contextual Travel Co-Pilot",
+  "description": "A calm, location-aware travel co-pilot for mindful discovery, transit navigation, safety radar, and cultural etiquette.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
